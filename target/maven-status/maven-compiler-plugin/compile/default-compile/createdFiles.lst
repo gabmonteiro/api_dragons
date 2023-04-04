@@ -1,0 +1,6 @@
+com\dragonsRegister\dragons\DatabaseClasses\Dragon.class
+com\dragonsRegister\dragons\DragonsApplication.class
+com\dragonsRegister\dragons\DatabaseClasses\DragonRepository.class
+com\dragonsRegister\dragons\WebConfig.class
+com\dragonsRegister\dragons\Controllers\DragonController.class
+com\dragonsRegister\dragons\DatabaseClasses\DragonService.class
